@@ -9,7 +9,7 @@ CRUD Entity Framework using C# and MYSQL Server. Insert, Update, Delete and Sear
 
 UI Design
 
-![image](https://user-images.githubusercontent.com/88584119/219705751-701d7143-e7be-4668-9ce1-86d3a513958f.png)
+![image](https://user-images.githubusercontent.com/88584119/219706030-664045ae-eb9d-4810-acdd-e272df0d4241.png)
 
 
 Link YouTube:
