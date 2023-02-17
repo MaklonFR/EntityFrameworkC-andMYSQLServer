@@ -1,0 +1,17 @@
+C:\Users\Marshanda\source\repos\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+C:\Users\Marshanda\source\repos\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+C:\Users\Marshanda\source\repos\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+C:\Users\Marshanda\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.AssemblyReference.cache
+C:\Users\Marshanda\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marshanda\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.Properties.Resources.resources
+C:\Users\Marshanda\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.GenerateResource.cache
+C:\Users\Marshanda\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\Marshanda\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+C:\Users\Marshanda\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
+C:\Users\Marshanda\source\repos\StudentApp\StudentApp\bin\Debug\EntityFramework.dll
+C:\Users\Marshanda\source\repos\StudentApp\StudentApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marshanda\source\repos\StudentApp\StudentApp\bin\Debug\EntityFramework.xml
+C:\Users\Marshanda\source\repos\StudentApp\StudentApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marshanda\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.CopyComplete
+C:\Users\Marshanda\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.StudentForm.resources
+C:\Users\Marshanda\source\repos\StudentApp\StudentApp\obj\Debug\StudentApp.ProfileForm.resources

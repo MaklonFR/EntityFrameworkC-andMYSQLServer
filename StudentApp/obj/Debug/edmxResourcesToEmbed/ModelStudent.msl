@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="StudentModelStoreContainer" CdmEntityContainer="StudentEntitiesOne">
+    <EntitySetMapping Name="TbStudent">
+      <EntityTypeMapping TypeName="StudentModel.TbStudent">
+        <MappingFragment StoreEntitySet="TbStudent">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nins" ColumnName="nins" />
+          <ScalarProperty Name="nama" ColumnName="nama" />
+          <ScalarProperty Name="jk" ColumnName="jk" />
+          <ScalarProperty Name="tempat_lahir" ColumnName="tempat_lahir" />
+          <ScalarProperty Name="tanggal_lahir" ColumnName="tanggal_lahir" />
+          <ScalarProperty Name="kelas" ColumnName="kelas" />
+          <ScalarProperty Name="jurusan" ColumnName="jurusan" />
+          <ScalarProperty Name="tanggal_update" ColumnName="tanggal_update" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
