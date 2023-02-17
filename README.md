@@ -3,9 +3,9 @@ Entity Framework - Insert Update Delete and Search in C# and MYSQL Server
 
 CRUD Entity Framework using C# and MYSQL Server. Insert, Update, Delete and Searching.
 
-1. Entity Framework 6.0
+1. Entity Framework 6.2.0
 2. C# 2022
-3. MYSQL Server 2019 
+3. MYSQL Server 2022
 
 UI Design
 
